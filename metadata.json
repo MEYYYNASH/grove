@@ -1,0 +1,6 @@
+{
+  "name": "Meu Music",
+  "description": "A premium music player with soft liquid glass UI, background playback, local music, downloads, lyrics, and GitHub release self-updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
